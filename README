@@ -1,0 +1,15 @@
+Media belajar bersama Al-quran.
+
+Disini pengajar dan peserta didik akan saling berinteraksi dalam hal belajar membaca al-quran
+Pengajar dapat bertatap muka dengan peserta didik melaluli web cam.
+
+Pengajar dapat memantau perkembangan peserta didik lewat quisioner yang di berikan berkala.
+
+Iqro ini dibangun dalam dua versi bahasa:
+	
+	* PHP 5 dengan Framework Code Igniter 2.0 
+	* PERL 5.10 dengan Framework Dancer 1.3000 
+ 
+Database yang digunakan sementara ini :
+	* Mysql ==> untuk Code Igniter 2.0 
+	* SQlite ==> untuk Dancer 1.3000
